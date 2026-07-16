@@ -3,7 +3,7 @@
 ## Project Overview
 Employee turnover is a significant cost center for any organization. This project is a machine learning-based web application designed to help HR departments transition from reactive replacement to proactive retention. By analyzing demographic data, workplace environment, and commute factors, the model predicts the probability of an employee resigning and allows HR leaders to simulate the impact of retention strategies.
 
-**Live Application:** [Insert your Streamlit App URL here]
+**Live Application:** [https://hr-attrition-tracker-adinwp.streamlit.app/]
 
 ## Business Value
 * **Proactive Intervention:** Identifies high-risk employees before they submit their resignation.
